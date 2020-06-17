@@ -1,0 +1,32 @@
+.array-container {
+  position: absolute;
+  left: 100px;
+  /* top: 100px; */
+}
+
+.array-bar {
+  width: 2px;
+  display: inline-block;
+  margin: 0 1px;
+}
+body {
+  background-color: #2d3540;
+}
+
+.buttonWrapper {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.button {
+  margin-right: 0.5rem;
+  width: 100px;
+  height: 30px;
+  background: #0074c7;
+  color: #e6ecf0;
+  border-radius: 8px;
+  border: 0;
+  cursor: pointer;
+}
