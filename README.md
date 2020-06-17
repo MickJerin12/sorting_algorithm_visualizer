@@ -1,3 +1,3 @@
-# sorting Algorithm Visualizer
+# Sorting Algorithm Visualizer
 
 > To start `npm start`
